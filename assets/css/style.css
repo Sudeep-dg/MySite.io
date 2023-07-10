@@ -43,7 +43,7 @@
 
   /* solid */
 
-  --jet: hsl(0, 0%, 18%);
+  --jet: hsla(0, 0%, 100%, 0.31);
   --onyx: hsl(0, 0%, 9%);
   --eerie-black-1: hsl(0, 0%, 9%);
   --eerie-black-2: hsl(0, 0%, 0%);
